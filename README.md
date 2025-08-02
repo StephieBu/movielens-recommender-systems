@@ -15,9 +15,9 @@ Objective: The objective of this project is to investigate and compare recommend
 
 ## Final Models Used
 
-NormalPredictor: A baseline model that makes random predictions based on the distribution of ratings in the training set.
-KNNWithMeans: A neighbourhood-based method that predicts ratings using the mean ratings of similar users. It applies Z-score normalisation to account for individual rating biases.
-SVD (Singular Value Decomposition): A matrix factorisation technique that captures latent user–item relationships for predicting missing ratings.
+- NormalPredictor: A baseline model that makes random predictions based on the distribution of ratings in the training set.
+- KNNWithMeans: A neighbourhood-based method that predicts ratings using the mean ratings of similar users. It applies Z-score normalisation to account for individual rating biases.
+- SVD (Singular Value Decomposition): A matrix factorisation technique that captures latent user–item relationships for predicting missing ratings.
 
 ## Evaluation Metric
 
