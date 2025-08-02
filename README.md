@@ -6,12 +6,12 @@ Objective: The objective of this project is to investigate and compare recommend
 
 ## Tools and Libraries:
 
-Python
-NumPy
-Surprise (Simple Python Recommendation System Engine)
-Pandas
-Matplotlib
-Seaborn
+- Python
+- NumPy
+- Surprise (Simple Python Recommendation System Engine)
+- Pandas
+- Matplotlib
+- Seaborn
 
 ## Final Models Used
 
